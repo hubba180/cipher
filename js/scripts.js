@@ -32,10 +32,11 @@ function reversed(){
     let charDivide = Math.round(charCount/2);
 
     return charDivide + userInput + caps;
+
+
 }
    
     
-
 
 
 console.log(reversed());
