@@ -1,37 +1,38 @@
-# _{Application Name}_
+# _Cipher_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _jQuery basic exercises, 6/2/2020_
 
-#### By _**{List of contributors}**_
+#### By _Kyle Hubbard & Kevin Davis_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This site was created to practice writing custom functions with javascript and also applying basic jQuery principles_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _clone this file from: https://github.com/hubba180/cipher_
+* _Open index.html in a web browser of your choice, I suggest Google Chrome_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Kyle Hubbard: kyle.james.hubbard@gmail.com_
+
+_Kevin Davis: thekidnamedkd@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* Git
+* HTML
+* CSS
+* Javascript
+* jQuery
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT - Liscense
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Cody Fritz, Erich Richter, Kyle Hubbard, Kevin Davis}_**

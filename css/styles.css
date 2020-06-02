@@ -7,12 +7,24 @@ img {
     display: none;
 }
 
+#bird {
+    display: none;
+}
 
-.clickable {
+.clickable1 {
     cursor: pointer;
     color: #0088cc;
 }
-  
-.clickable:hover {
+
+.clickable1:hover {
+    text-decoration: underline;
+}
+
+.clickable2 {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+.clickable2:hover {
     text-decoration: underline;
 }
